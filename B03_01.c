@@ -1,3 +1,4 @@
+//dung for in cac so nguyen
 #include <stdio.h>
 #include <conio.h>
 
