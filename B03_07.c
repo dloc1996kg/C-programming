@@ -1,3 +1,6 @@
+//gui khong ky han lai suat 2.4%/thang, moi thang tinh lai 1 lan
+//gui co ky han 3 thang lai suat 4%/thang, 3 thang tinh lai 1 lan
+//tinh tong cong so tien ca von lan loi sau 1 thoi gian gui nhap tu ban phim
 #include <stdio.h>
 #include <conio.h>
 
