@@ -1,3 +1,4 @@
+//tinh tong dung for
 #include <stdio.h>
 #include <conio.h>
 
