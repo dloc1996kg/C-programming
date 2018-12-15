@@ -1,3 +1,4 @@
+//chuong trinh tinh tong
 #include <stdio.h>
 #include <conio.h>
 
