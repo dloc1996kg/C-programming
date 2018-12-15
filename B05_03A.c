@@ -1,4 +1,4 @@
-//tinh giai thuc khong dung de qui
+//tinh giai thua khong dung de qui
 #include <stdio.h>
 #include <conio.h>
 
