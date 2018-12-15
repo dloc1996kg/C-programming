@@ -1,3 +1,4 @@
+//tinh giai thuc khong dung de qui
 #include <stdio.h>
 #include <conio.h>
 
