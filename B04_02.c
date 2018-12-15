@@ -1,3 +1,4 @@
+//nhap so nguyen n roi in so dao nguoc
 #include <stdio.h>
 #include <conio.h>
 
