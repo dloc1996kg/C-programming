@@ -1,3 +1,4 @@
+//in thong bao
 #include <stdio.h>
 #include <conio.h>
 
