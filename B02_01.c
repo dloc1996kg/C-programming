@@ -1,3 +1,4 @@
+//xem 1 ki tu co thuoc A-Z
 #include <stdio.h>
 #include <conio.h>
 
