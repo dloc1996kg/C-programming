@@ -1,3 +1,4 @@
+//giai phuong trinh bac nhat
 #include <stdio.h>
 #include <conio.h>
 
