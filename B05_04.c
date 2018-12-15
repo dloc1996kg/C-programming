@@ -1,3 +1,4 @@
+//ham tim UCLN cua a, b. nhap vao tu so va mau so cua 1 phan so, kiem tra phan so da toi gian chua
 #include <stdio.h>
 #include <conio.h>
 int ucln(int a,int b){
