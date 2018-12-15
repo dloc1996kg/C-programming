@@ -1,3 +1,4 @@
+//dung for in cac ki tu
 #include <stdio.h>
 #include <conio.h>
 
