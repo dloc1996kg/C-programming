@@ -1,3 +1,4 @@
+//nhap thang, nam. xem thang co bao nhieu ngay
 #include <stdio.h>
 #include <conio.h>
 
