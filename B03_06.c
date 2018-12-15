@@ -1,3 +1,4 @@
+//tinh gia tri trung binh cua 1 day so thuc, ket thuc day voi -1
 #include <stdio.h>
 #include <conio.h>
 
