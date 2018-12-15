@@ -1,3 +1,4 @@
+//tinh tong 3 so
 #include <stdio.h>
 #include <conio.h>
 
