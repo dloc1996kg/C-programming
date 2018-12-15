@@ -1,3 +1,4 @@
+//dung vong lap while
 #include <stdio.h>
 #include <conio.h>
 
