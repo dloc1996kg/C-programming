@@ -1,3 +1,4 @@
+//tinh tong cac so nguyen. tong duoc in ra sau khi moi so duoc nhap vao. gap 0 thi dung. in tong sau cung
 #include <stdio.h>
 int tong;
 int phantu;
