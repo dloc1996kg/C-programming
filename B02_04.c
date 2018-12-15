@@ -1,3 +1,4 @@
+//tinh chu vi, dien tich tam giac
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
