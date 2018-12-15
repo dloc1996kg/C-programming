@@ -1,3 +1,4 @@
+//tim so lon nhat cua day so thuc, xac dinh vi tri cua no
 #include <stdio.h>
 #include <conio.h>
 
