@@ -1,3 +1,4 @@
+//tinh giai thua co dung de qui
 #include <stdio.h>
 #include <conio.h>
 
