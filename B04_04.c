@@ -1,3 +1,4 @@
+//tinh tong cac so nguyen duong. dem xem co bao nhieu so am
 #include <stdio.h>
 #include <conio.h>
 int tong;
